@@ -53,7 +53,6 @@ This project is a UI/UX designed **Clothing Selling App** that aims to provide a
 6. **View Order History**: Access your profile to view past orders and manage account settings.
 
 ## Link
-https://www.figma.com/proto/muqyyJqzTDWWun0zH0JBts/Untitled?node-id=132-2993&node-type=CANVAS&t=DKcUe4hUQr8i7rvL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=132%3A3541
-
+https://www.figma.com/proto/muqyyJqzTDWWun0zH0JBts/Untitled?node-id=132-3541&node-type=FRAME&t=V1IBLDXHyWrBoSVM-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=132%3A3541
 
 
